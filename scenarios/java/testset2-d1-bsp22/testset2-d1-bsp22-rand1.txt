@@ -1,0 +1,13 @@
+# FILE STRUCTURE
+# simulator version
+# row  cols
+# matrix:
+# 0 empty
+# 1 street
+# 2 station
+# 3 obstacle
+0.1
+3	3
+0	0	0	
+0	2	1	
+0	0	0	

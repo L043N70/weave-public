@@ -8,9 +8,11 @@ To solve the WACPP problem, we proposed an iterative approach leveraging two syn
 
 The name of the proposed algorithm WEAVE (WEather-Aware VEhicle routing) was inspired by the verb 'to weave', as the generated paths resemble a woven fabric on a loom.
 
-In the animated image below, the mobile ground stations are represented by moving rectangles along the grey roads, while the paths of the UAVs are colored purple, blue, and green.
+In the animation below, the mobile ground stations are represented by rectangles moving along gray roads, while each UAV path is colored differently.
 
-![example](example.gif)
+![example1](example.gif)
+
+![example2](example2.gif)
 
 ## Additional material
 

@@ -25,3 +25,23 @@ The following animations demonstrate how the WEAVE algorithm operates in differe
     <figcaption style="font-size: 0.85em; color: #55; margin-top: 8px; max-width: 700px; text-align: center;"><br>WEAVE algorithm simulation in a real-world scenario. The colored lines show UAV coverage paths, while the yellow squares highlight the locations of mobile battery-swapping stations.</figcaption>
   </figure>
 </div>
+
+## Read the article
+
+📄 [Go to the full paper](https://rdcu.be/ebUVx)↗
+
+
+## Cite this work
+
+If our work has been helpful for your research, please use the following citation:
+
+```
+@article{porcelli2025context,
+  title={Context-aware coverage path planning for a swarm of UAVs using mobile ground stations for battery-swapping},
+  author={Porcelli, Lorenzo and Ficco, Massimo and D’Angelo, Gianni and Palmieri, Francesco},
+  journal={Soft Computing},
+  pages={1--21},
+  year={2025},
+  publisher={Springer}
+}
+```
